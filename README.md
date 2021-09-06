@@ -1,7 +1,7 @@
 
 <h1> Hi! I am Nitin 👋</h1>
 
-<p> You probably know that like thrice by now 😅. I am a designer by profession, developer by degree. I enjoy frontend development, open-source contribution, launching my crafted ideas and almost any Imagine Dragon song. 
+<p> I am a designer by profession, s developer by degree. I enjoy frontend development, open-source contribution, launching my crafted ideas and almost any Imagine Dragons song. 
 
 I lead UX and volunteer as an organisation admin for <a href="https://circuitverse.org/">CircuitVerse</a>. I work as a product designer at <a href="http://yellow.ai/">yellow.ai</a>.<br><br> Consider checking out my <a href="http://nitinsinghal.me/"> design portfolio</a>.
 </p>
