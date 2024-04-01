@@ -3,7 +3,7 @@
 
 <p> I am a designer by profession, s developer by degree. I enjoy frontend development, open-source contribution, launching my crafted ideas and almost any Imagine Dragons song. 
 
-I lead UX and volunteer as an organisation admin for <a href="https://circuitverse.org/">CircuitVerse</a>. I work as a product designer at <a href="http://yellow.ai/">yellow.ai</a>.<br><br> Consider checking out my <a href="http://nitinsinghal.me/"> design portfolio</a>.
+I lead UX and volunteer as an organisation admin for <a href="https://circuitverse.org/">CircuitVerse</a>. 
 </p>
 
 <a href="https://www.linkedin.com/in/nitin-singhal-10s/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -20,13 +20,9 @@ I lead UX and volunteer as an organisation admin for <a href="https://circuitver
 <li> <b> Mozilla </b> - I performed heuristic evaluations and cognitive walkthroughs for their open source project "fenix" (Firefox for Android). </li>
 <li> <b> rClone </b> - I redesigned the user experience for their platform, awaiting a developer to volunteer for designing it. </li>
 <li> <b> CCExtractor </b> - I redesigned their project Scancode Workbench, enhancing the overall aesthetics and usability experience. </li>
-<li> <b> AboutCode </b> - Revamped one of their projects - Scancode Workbench and filed some usability issues. </li>
+<li> <b> AboutCode </b> - Revamped one of their projects - Scancode Workbench and filed usability issues. </li>
 <li> Mentoring various students in open source programs like Google Summer of Code and Google Code-In. </li>
 </ul>
 <p>A blog on how I got into open source and my journey so far - <a target="_blank"  href="https://medium.com/@nitinsinghal1599/contributing-to-open-source-as-a-designer-and-my-journey-as-a-google-code-in-mentor-7cf630f2393b" target="_blank">Read on Medium</a></p>
 
  
-<h3>📈 Github Stats </h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nitin10s&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
-</p>
